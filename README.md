@@ -1,4 +1,4 @@
-# operation-system-lab-4
+# operating-system-lab-4
 基于shell的文件复制程序，北京理工大学计算机学院大三操作系统课程实验。
 
 ## 实验内容
